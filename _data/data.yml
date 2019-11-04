@@ -7,194 +7,135 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Paul Louis
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.JPG  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: iampaullouis@gmail.com
+    phone: +91 8891133454
+    website: 
+    linkedin: vencyan
+    github: venomouscyanide
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Malayalam
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Playing MOBA Video games
         link:
 
-      - item: Snowboarding
+      - item: Badminton
         link:
 
-      - item: Cooking
+      - item: Motorcycling
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Software developer currently working at start-up company Clootrack. 1+ years of software development experience with a broad knowledge of the Django web framework and web technologies. An adaptable and self-motivated individual striving to achieve the goal of designing, maintaining and implementing scalable software solutions.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    - degree: BTech in Computer Science Engineering
+      university: Govt Model Engineering College(CUSAT)
+      time: 2014 - 2018
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Devloper
+      time: Dec 2018 - Present
+      company: Clootrack Software Solutions
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+          - Implementation of RESTful API'sfor content transfer.
+          - Design and implementation of a full flegded Django web application for generating market insights. 
+          - Automation of PPT's using python.
+          - Design and implementation of a webscraping engine using Django.
+          - Creation of a data cleaning module to clean data scraped fromwebpages.
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Software Engineer
+      time: Jun 2018 - Dec 2018
+      company: Technicolor Connected Home
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        - Worked on the development of Comcast Xi6 leading up to its certification.
+        - Developed Code big feature as per client request for Comcast XiD.
+        - Worked on porting of software stack on Charter WB2.0(ARM) onto Charter WB1.1(MIPS).
 
-          - Bullet point
-          - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Intern
+      time: Jun 2017 - Jul 2017
+      company: UST Global
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        - Attended numerous sessions by leading innovators in the fields of Blockchain, Machine Learning, Cloudcomputing.
+        - Presented a method of implementation of Bot-Bot communication channel to help victims involved in a car crash.
 
-          - Bullet point
-          - Bullet point
+    - role: Intern
+      time: May 2017 - Jun 2017
+      company: Xtend Technologies
+      details: |
+        - Developed an all-purpose forum as a web application and as an android application.
+        - Implemented a programusing proprietary software to create an IVR system.
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      A list of personal and professional projects I have been involved in 
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: SunTiger
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "State of the art web crawling engine built using Django."
 
-      - title: Tempo
+      - title: Beagle
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "A Django Web application to genrate maker insights for companies base on reviews scraped online."
 
-      - title: Atom
+      - title: PPT Automation
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Automation of PPT’S using python in the Django web framework based on configuration given as JSON."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: DjangoDynamicFormsets
+        link: "https://github.com/venomouscyanide/DjangoDynamicFormsets"
+        tagline: "Simple to use implementation for dynamic formsets in Django."
+
+      - title: Voting System Using Blockchain.
+        link: "https://github.com/venomouscyanide/MainProject"
+        tagline: "Online voting system implemented using blockchain."
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: A Security Enhanced Voter Identity Verification System based on Blockchain
+        authors: Paul Louis, Anjali S, Abhishek Menon, Parvathi T R, Meenakshi Omprakash
+        conference: International Journal of Computer Science and Mobile Applications, Vol.6 Issue. 2, February- 2018, pg. 100-107
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python & Django
-        level: 98%
+        level: 90%
 
       - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: HTML5 & CSS
+        level: 70%
+
+      - name: C
+        level: 70%
+
+      - name: PHP
+        level: 70%
