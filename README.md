@@ -4,6 +4,3 @@ The source code for my gibhub.io page which contains my online CV/Resume [forked
 
 
 [See it live in action here](https://venomouscyanide.github.io/)
-
-
-***Currently a WIP!!! and contains the bare template!***
