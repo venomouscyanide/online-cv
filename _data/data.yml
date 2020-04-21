@@ -44,7 +44,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Software developer currently working at start-up company Clootrack. 1+ years of software development experience with a broad knowledge of the Django web framework and web technologies. An adaptable and self-motivated individual striving to achieve the goal of designing, maintaining and implementing scalable software solutions.
+      Software developer currently working at a start-up company Clootrack Software. 1+ years of software development experience with a broad knowledge of the Django web framework and web technologies. An adaptable and selfmotivated individual striving to achieve the goal of designing, maintaining and implementing scalable software solutions.
 
 education:
     - degree: BTech in Computer Science Engineering
@@ -57,10 +57,12 @@ experiences:
       company: Clootrack Software Solutions
       details: |
           - Implementation of RESTful API's for content transfer.
-          - Design and implementation of a full flegded Django web application for generating market insights. 
+          - Design and implementation of a full fledged Django web application for generating market insights. 
           - Automation of PPT's using python.
-          - Design and implementation of a webscraping engine using Django.
-          - Creation of a data cleaning module to clean data scraped fromwebpages.
+          - Design and implementation of a webscraping engine using Django/Python.
+          - Creation of a data cleaning module to clean data scraped from webpages.
+          - Maintenance and migration of NoSQL Databases like MongoDB and DocumentDB.
+          - Maintenance of servers/services across cloud platforms such as AWS/GCP
 
     - role: Software Engineer
       time: Jun 2018 - Dec 2018
@@ -75,7 +77,7 @@ experiences:
       time: Jun 2017 - Jul 2017
       company: UST Global
       details: |
-        - Attended numerous sessions by leading innovators in the fields of Blockchain, Machine Learning, Cloudcomputing.
+        - Attended numerous sessions by leading innovators in the fields of Blockchain, Machine Learning and Cloudcomputing.
         - Presented a method of implementation of Bot-Bot communication channel to help victims involved in a car crash.
 
     - role: Intern
@@ -83,7 +85,7 @@ experiences:
       company: Xtend Technologies
       details: |
         - Developed an all-purpose forum as a web application and as an android application.
-        - Implemented a programusing proprietary software to create an IVR system.
+        - Implemented a program using proprietary software to create an IVR system.
 
 projects:
     title: Projects
@@ -97,7 +99,7 @@ projects:
 
       - title: Beagle
         link: "#"
-        tagline: "A Django Web application to genrate maker insights for companies base on reviews scraped online."
+        tagline: "A Django Web application to generate market insights for companies based on reviews scraped online."
 
       - title: PPT Automation
         link: "#"
