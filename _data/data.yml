@@ -32,19 +32,25 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Playing MOBA Video games
+      - item: Esports(Mostly League of Legends)
         link:
 
-      - item: Badminton
+      - item: Deep Learning
         link:
 
-      - item: Motorcycling
+      - item: Natural Language Processing
+        link:
+
+      - item: Passwords Research
+        link:
+
+      - item: PyTorch
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Software developer currently working at a start-up company Clootrack Software. 2 years of software development experience with a broad knowledge of the Django web framework and web technologies. An adaptable and selfmotivated individual striving to achieve the goal of designing, maintaining and implementing scalable software solutions.
+      Software developer currently working at a market research start-up company Clootrack Software Labs Private Limited. 3 years of software development experience with a broad knowledge of the Django web framework and web technologies. An adaptable and selfmotivated individual striving to achieve the goal of designing, maintaining and implementing scalable software solutions.
 
 education:
     - degree: BTech in Computer Science Engineering
@@ -56,20 +62,28 @@ experiences:
       time: Dec 2018 - Present
       company: Clootrack Software Solutions
       details: |
-          - Implementation of RESTful API's for content transfer.
-          - Design and implementation of a full fledged Django web application for generating market insights. 
+          - Aided in the research, design and development of a custom Sentiment Analyzer for textual data.
+          - Aided in the research, design and development of state-of-the-art methods for text clustering using Python.   
+          - Design and implementation of a pipeline that takes in CSV data and publishes Tableau reports on the company website. This allows clients to make edits to the data in the CSV through a web UI and refresh the Tableau Dashboards.
+          - Responsible for advising, guiding and managing a team of 5 developers in various in-house and client requirements.
+          - Responsible for hiring Software Development Engineers by conducting level 1, 2 and 3 tech interviews.
+          - Implementation of RESTful API's for content transfer between systems, both internal to the company and with other client systems.
+          - Design and implementation of a full-fledged Django web application for generating market insights.
+          - Design and implementation of market research insights generation system withing the above said application used by top accounting firms across the globe.
+          - Creation and maintenance of a scraping program for collecting Google Maps Reviews data. 
           - Automation of PPT's using python.
-          - Design and implementation of a webscraping engine using Django/Python.
+          - Design and implementation of a web scraping engine using Django/Python and tools like Selenium/Beautiful Soup.
           - Creation of a data cleaning module to clean data scraped from webpages.
+          - Design and implementation of a social media engagement tracking platform for tracking SKU's/ Brands produced by a top consumer goods corporation.
           - Maintenance and migration of NoSQL Databases like MongoDB and DocumentDB.
-          - Maintenance of servers/services across cloud platforms such as AWS/GCP
+          - Responsible for DevOps activities like setting up instances, deployment of servers, maintenance of queuing systems like Redis, setting up of SQL and NoSQL databases etc., across leading cloud platforms including GCP, Azure and AWS.
 
     - role: Software Engineer
       time: Jun 2018 - Dec 2018
       company: Technicolor Connected Home
       details: |
         - Worked on the development of Comcast Xi6 leading up to its certification.
-        - Developed Code big feature as per client request for Comcast XiD.
+        - Development of "Code big feature" as per client request for Comcast XiD.
         - Worked on porting of software stack on Charter WB2.0(ARM) onto Charter WB1.1(MIPS).
 
 
@@ -94,12 +108,16 @@ projects:
 
     assignments:
       - title: SunTiger
-        link: "#"
+        link: "https://suntiger.co.in"
         tagline: "State of the art web crawling engine built using Django."
 
       - title: Beagle
-        link: "#"
+        link: "https://beagle.co.in"
         tagline: "A Django Web application to generate market insights for companies based on reviews scraped online."
+
+      - title: CT Tableau
+        link: "https://app.clootrack.com"
+        tagline: "A Django Web application that automatically publishes Tableau reports given CSV data sources and base Tableau templates."
 
       - title: PPT Automation
         link: "#"
@@ -112,16 +130,6 @@ projects:
       - title: Voting System Using Blockchain.
         link: "https://github.com/venomouscyanide/MainProject"
         tagline: "Online voting system implemented using blockchain."
-
-publications:
-    title: Publications
-    intro: |
-      
-
-    papers:
-      - title: A Security Enhanced Voter Identity Verification System based on Blockchain
-        authors: Paul Louis, Anjali S, Abhishek Menon, Parvathi T R, Meenakshi Omprakash
-        conference: International Journal of Computer Science and Mobile Applications, Vol.6 Issue. 2, February- 2018, pg. 100-107
 
 skills:
     title: Skills &amp; Proficiency
@@ -136,8 +144,8 @@ skills:
       - name: HTML5 & CSS
         level: 70%
 
-      - name: C
-        level: 70%
+      - name: PyTorch
+        level: 40%
 
-      - name: PHP
-        level: 70%
+      - name: NumPy, pandas
+        level: 40%
