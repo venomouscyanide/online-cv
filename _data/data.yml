@@ -64,6 +64,7 @@ experiences:
       details: |
           - Aided in the research, design and development of a custom Sentiment Analyzer for textual data.
           - Aided in the research, design and development of state-of-the-art methods for text clustering using Python.   
+          - Responsible for identifying and fixing VAPT security vulnerabilities found in one of the company projects.
           - Design and implementation of a pipeline that takes in CSV data and publishes Tableau reports on the company website. This allows clients to make edits to the data in the CSV through a web UI and refresh the Tableau Dashboards.
           - Responsible for advising, guiding and managing a team of 5 developers in various in-house and client requirements.
           - Responsible for hiring Software Development Engineers by conducting level 1, 2 and 3 tech interviews.
@@ -74,10 +75,11 @@ experiences:
           - Automation of PPT's using python.
           - Design and implementation of a web scraping engine using Django/Python and tools like Selenium/Beautiful Soup.
           - Creation of a data cleaning module to clean data scraped from webpages.
-          - Design and implementation of a social media engagement tracking platform for tracking SKU's/ Brands produced by a top consumer goods corporation.
+          - Design and implementation of a social media engagement tracking platform for tracking SKU's/Brands produced by a top consumer goods corporation.
           - Maintenance and migration of NoSQL Databases like MongoDB and DocumentDB.
           - Responsible for DevOps activities like setting up instances, deployment of servers, maintenance of queuing systems like Redis, setting up of SQL and NoSQL databases etc., across leading cloud platforms including GCP, Azure and AWS.
           - Responsible for the creation of ad-hoc Python scripts and for bug tracking and deploying fixes of critical software modules.  
+          - Responsible for optimization and scaling up of exisiting software modules.
 
     - role: Software Engineer
       time: Jun 2018 - Dec 2018
