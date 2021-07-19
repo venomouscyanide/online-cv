@@ -60,7 +60,7 @@ education:
 experiences:
     - role: Software Developer
       time: Dec 2018 - Present
-      company: Clootrack Software Solutions
+      company: Clootrack Software Labs Private Limited
       details: |
           - Aided in the research, design and development of a custom Sentiment Analyzer for textual data.
           - Aided in the research, design and development of state-of-the-art methods for text clustering using Python.   
