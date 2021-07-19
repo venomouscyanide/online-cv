@@ -70,9 +70,8 @@ experiences:
           - Responsible for hiring Software Development Engineers by conducting level 1, 2 and 3 tech interviews.
           - Implementation of RESTful API's for content transfer between systems, both internal to the company and with other client systems.
           - Design and implementation of a full-fledged Django web application for generating market insights.
-          - Design and implementation of market research insights generation system within the above said application used by top accounting firms across the globe.
+          - Design and implementation of market research insights generation algorithm within the above said application used by top accounting firms across the globe.
           - Creation and maintenance of a scraping program for collecting Google Maps Reviews data. 
-          - Automation of PPT's using python.
           - Design and implementation of a web scraping engine using Django/Python and tools like Selenium/Beautiful Soup.
           - Creation of a data cleaning module to clean data scraped from webpages.
           - Design and implementation of a social media engagement tracking platform for tracking SKU's/Brands produced by a top consumer goods corporation.
@@ -80,6 +79,8 @@ experiences:
           - Responsible for DevOps activities like setting up instances, deployment of servers, maintenance of queuing systems like Redis, setting up of SQL and NoSQL databases etc., across leading cloud platforms including GCP, Azure and AWS.
           - Responsible for the creation of ad-hoc Python scripts and for bug tracking and deploying fixes of critical software modules.  
           - Responsible for the optimization and scaling up of exisiting software modules.
+          - Automation of PPT's using Python.
+          - Automation of Excel spreadsheets using Python.
 
     - role: Software Engineer
       time: Jun 2018 - Dec 2018
