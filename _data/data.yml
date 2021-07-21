@@ -78,8 +78,8 @@ experiences:
           - Maintenance and migration of NoSQL Databases like MongoDB and DocumentDB.
           - Responsible for DevOps activities like setting up instances, deployment of servers, maintenance of queuing systems like Redis, setting up of SQL and NoSQL databases etc., across leading cloud platforms including GCP, Azure and AWS.
           - Responsible for the creation of ad-hoc Python scripts and for bug tracking and deploying fixes of critical software modules.  
-          - Responsible for the optimization and scaling up of exisiting software modules.
-          - Automation of PPT's using Python.
+          - Responsible for the optimization and scaling up of existing software modules.
+          - Automation of PPTs using Python.
           - Automation of Excel spreadsheets using Python.
 
     - role: Software Engineer
