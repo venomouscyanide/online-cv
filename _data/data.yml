@@ -8,15 +8,17 @@ sidebar:
 
     # Profile information
     name: Paul Louis
-    tagline: Full Stack Developer
+    tagline: Graduate Research/Teaching Assistant
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: iampaullouis@gmail.com
-    phone: Please contact via e-mail
+    email: paul.louis@ontariotechu.net
+    phone: +1 (289) 675 3549
+    timezone: Toronto Timezone
     website: 
     linkedin: paullouisuoit
     github: venomouscyanide
+    pdf: https://drive.google.com/file/d/19U3ENn-9hFv45RJLRfY_pMbAADGB7dpQ/view?usp=sharing
     gitlab:
     bitbucket:
     twitter: 
@@ -32,30 +34,54 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Esports(Mostly League of Legends)
+      - item: Keeping up with the League of Legends competitive scene around the globe.
         link:
 
-      - item: Deep Learning
+      - item: Playing story-rich single player video games.
         link:
 
-      - item: Natural Language Processing
-        link:
-
-      - item: Passwords Research
-        link:
-
-      - item: PyTorch
+      - item: Cardio workouts (currently in love with kickboxing and indoor cycling)
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Software developer currently working at a market research start-up company Clootrack Software Labs Private Limited. 3 years of software development experience with a broad knowledge of the Django web framework and web technologies. An adaptable and selfmotivated individual striving to achieve the goal of designing, maintaining and implementing scalable software solutions.
+      A second-year thesis-based Master's student at University of Ontario Institute of Technology with expertise in graph neural networks, deep learning and software development with three plus years of software development experience. Previously worked in a fast-paced market research startup as a software developer with a key role in software design and development, developer talent recruitment and leading a team of developers. An adaptable and self-motivated individual striving to achieve the goal of designing, maintaining and implementing scalable software solutions.
+      Currently open to SDE, SWE or MLE roles starting August 2023!
 
 education:
+    - degree: MSc. in Computer Science
+      university: University of Ontario Institute of Technology
+      time: 2021 - 2023
     - degree: BTech in Computer Science Engineering
-      university: Govt Model Engineering College(CUSAT)
+      university: Govt Model Engineering College (CUSAT)
       time: 2014 - 2018
+
+teaching_experiences:
+  - role: Teaching Assistant for multiple courses
+    time: Sept 2021 - ongoing
+    company: Ontario Tech University
+    details: |
+          - Worked as a Teaching Assistant for the following courses: Introduction to Networking I (Fall 2021, 2022), Advanced Communication Networks (Winter 2022), Social Info and Tech. Networks (Winter 2022).
+          - Worked with Ontario Tech Professors leading programming labs on social networks, Cisco Labs, grading weekly lab records, multiple assignments and final project reports.
+          - Conducted tutorials on Python3 programming and graph analysis software such as Gephi, networkx, BeautifulSoup and NetLogo.
+          - Conducted theoretical sessions on introduction to topics in probability and core concepts in social network analysis.
+          - Helped students with doubts in programming with Python3, the final project and other general queries related to course material in a timely manner.
+          - Met with students one-on-one outside scheduled class hours to help them understand the course materials in-depth.
+
+
+
+research_experiences:
+    - role: Graduate Research Assistant
+      time: Sept 2021 - ongoing
+      company: Security AI Networks Lab (SAIN Lab), Ontario Tech University
+      details: |
+          - Responsible for writing deep insightful literature reviews on research papers in the areas of graph neural networks, link prediction in graphs and subgraph representation learning (SGRL).
+          - Collaborated with graduate-level peers to create a state-of-the-art model for scalable subgraph representation learning.
+          - Organize, lead and participate weekly in an artificial intelligence reading group covering topics in artificial intelligence, deep learning and graph neural networks.
+          - Guide undergraduate students on maintenance and setting up of two Linux GPU servers belonging to the lab.
+          - Created a scalable SGRL model for link prediction on graphs, ScaLed, which was accepted into the 31st ACM International Conference on Information and Knowledge Management (29.03% acceptance rate).
+          - Currently researching on an even more scalable SGRL model for link prediction on graph data.
 
 experiences:
     - role: Software Developer
@@ -131,25 +157,36 @@ projects:
         link: "https://github.com/venomouscyanide/DjangoDynamicFormsets"
         tagline: "Simple to use implementation for dynamic formsets in Django."
 
-      - title: Voting System Using Blockchain.
-        link: "https://github.com/venomouscyanide/MainProject"
-        tagline: "Online voting system implemented using blockchain."
+
+publications:
+    title: Publications
+    intro: |
+      I am currently undertaking research on scable graph neural network link prediction models with Dr. Amirali Salehi-Abari.
+    papers:
+      - title: Sampling Enclosing Subgraphs for Link Prediction
+        link: "https://www.sain.ca/publication/abariPDFS/CIKM22.pdf"
+        authors: Paul Louis, Shweta Ann Jacob, Amirali Salehi-Abari
+        conference: In Proceedings of the 31st ACM International Conference on Information & Knowledge Management (CIKM’22)
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python3
+        level: 90%
+
+      - name: PyTorch & PyTorch Geometric
+        level: 75%
+
+      - name: NumPy, pandas
+        level: 40%
+
+      - name: Django & Django REST Framework
         level: 90%
 
       - name: Javascript & jQuery
         level: 60%
 
       - name: HTML5 & CSS
-        level: 70%
+        level: 50%
 
-      - name: PyTorch
-        level: 40%
-
-      - name: NumPy, pandas
-        level: 40%
