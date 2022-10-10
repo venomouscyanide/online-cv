@@ -21,7 +21,7 @@ sidebar:
     pdf: https://drive.google.com/file/d/19U3ENn-9hFv45RJLRfY_pMbAADGB7dpQ/view?usp=sharing
     gitlab:
     bitbucket:
-    twitter: 
+    twitter: exploring_gnns
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -88,25 +88,19 @@ experiences:
       time: Dec 2018 - Jul 2021
       company: Clootrack Software Labs Private Limited
       details: |
-          - Aided in the research, design and development of a custom Sentiment Analyzer for textual data.
-          - Aided in the research, design and development of state-of-the-art methods for text clustering using Python.   
-          - Responsible for identifying and fixing VAPT security vulnerabilities found in one of the company projects.
-          - Design and implementation of a pipeline that takes in CSV data and publishes Tableau reports on the company website. This allows clients to make edits to the data in the CSV through a web UI and refresh the Tableau Dashboards.
-          - Responsible for advising, guiding and managing a team of 5 developers in various in-house and client requirements.
-          - Responsible for hiring Software Development Engineers by conducting level 1, 2 and 3 tech interviews.
-          - Implementation of RESTful API's for content transfer between systems, both internal to the company and with other client systems.
-          - Design and implementation of a full-fledged Django web application for generating market insights.
-          - Design and implementation of market research insights generation algorithm within the above said application used by top accounting firms across the globe.
-          - Creation and maintenance of a scraping program for collecting Google Maps Reviews data. 
-          - Design and implementation of a web scraping engine using Django/Python and tools like Selenium/Beautiful Soup.
-          - Creation of a data cleaning module to clean data scraped from webpages.
-          - Design and implementation of a social media engagement tracking platform for tracking SKU's/Brands produced by a top consumer goods corporation.
-          - Maintenance and migration of NoSQL Databases like MongoDB and DocumentDB.
-          - Responsible for DevOps activities like setting up instances, deployment of servers, maintenance of queuing systems like Redis, setting up of SQL and NoSQL databases etc., across leading cloud platforms including GCP, Azure and AWS.
-          - Responsible for the creation of ad-hoc Python scripts and for bug tracking and deploying fixes of critical software modules.  
-          - Responsible for the optimization and scaling up of existing software modules.
-          - Automation of PPTs using Python.
-          - Automation of Excel spreadsheets using Python.
+        - Aided in the research, design and development of complex software modules.
+        - Responsible for identifying and fixing security vulnerabilities found in the
+        company projects.
+        - Responsible for advising, guiding and managing a team of 5 developers in
+        various in-house and client requirements.
+        - Responsible for hiring tech talent.
+        - Implementation of RESTful API’s for content transfer between systems, both
+        internal to the company and with other client systems.
+        - Maintenance and migration of NoSQL databases.
+        - Responsible for DevOps activities like setting up servers, deployment of
+        servers, setting up of databases etc.
+        - Responsible for the optimization and scaling up of existing software modules.
+        - Responsible for the automation of various activities including file generation.
 
     - role: Software Engineer
       time: Jun 2018 - Dec 2018
