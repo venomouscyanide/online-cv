@@ -80,7 +80,7 @@ research_experiences:
           - Collaborated with graduate-level peers to create a state-of-the-art model for scalable subgraph representation learning.
           - Organize, lead and participate weekly in an artificial intelligence reading group covering topics in artificial intelligence, deep learning and graph neural networks.
           - Guide undergraduate students on maintenance and setting up of two Linux GPU servers belonging to the lab.
-          - Created a scalable SGRL model for link prediction on graphs, ScaLed, which was accepted into the 31st ACM International Conference on Information and Knowledge Management (29.03% acceptance rate).
+          - Created a scalable SGRL model for link prediction on graphs, ScaLed, which was accepted into the 31st ACM International Conference on Information and Knowledge Management (29.03% acceptance rate). Also received a travel grant from the highly competitive Graduate Student Conference Travel Award at Ontario Tech and the CIKM 22' National Science Foundation.
           - Currently researching on an even more scalable SGRL model for link prediction on graph data.
 
 experiences:
@@ -131,9 +131,17 @@ projects:
       A list of personal and professional projects I have been involved in 
 
     assignments:
+      - title: Sampling Enclosing Subgraphs for Link Prediction (ScaLed)
+        link: "https://github.com/venomouscyanide/ScaLed"
+        tagline: A scalable subgraph representation learning framework that takes multiple random walks from target pair of nodes for link prediction in graphs.
+
+      - title: A Reconstruction Based Comparison of Graph Neural Network Embedding Models
+        link: "https://github.com/venomouscyanide/Graph-Representation-Learning"
+        tagline: A framework for training state-of-the-art network embedding models and analyzed their learnt node embedding expressivity by scoring their ability in being used to reconstruct the original graph it was trained on.
+
       - title: SunTiger
         link: "https://suntiger.co.in"
-        tagline: "State of the art web crawling engine built using Django."
+        tagline: "State-of-the-art web crawling engine built using Django."
 
       - title: Beagle
         link: "https://beagle.co.in"
@@ -155,7 +163,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      I am currently undertaking research on scable graph neural network link prediction models with Dr. Amirali Salehi-Abari.
+      I am currently undertaking research on scalable graph neural network link prediction models with Dr. Amirali Salehi-Abari.
     papers:
       - title: Sampling Enclosing Subgraphs for Link Prediction
         link: "https://www.sain.ca/publication/abariPDFS/CIKM22.pdf"
