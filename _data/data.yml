@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Paul Louis
-    tagline: Graduate Research/Teaching Assistant
+    tagline: Graduate Research Assistant
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -46,8 +46,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A second-year thesis-based Master's student at University of Ontario Institute of Technology with expertise in graph neural networks, deep learning and software development with three plus years of software development experience. Previously worked in a fast-paced market research startup as a software developer with a key role in software design and development, developer talent recruitment and leading a team of developers. An adaptable and self-motivated individual striving to achieve the goal of designing, maintaining and implementing scalable software solutions.
-      Currently open to SDE, SWE or MLE roles starting August 2023!
+      Soon to be Computer Science Master's graduate from University of Ontario Institute of Technology with expertise in graph neural networks, deep learning and software development with three plus years of software development experience. Previously worked in a fast-paced market research startup as a software developer with a key role in software design and development, developer talent recruitment and leading a team of developers. An adaptable and self-motivated individual striving to achieve the goal of designing, maintaining and implementing scalable software solutions.
+      Currently open to SDE, SWE or MLE roles starting June 2023!
 
 education:
     - degree: MSc. in Computer Science
@@ -59,7 +59,7 @@ education:
 
 teaching_experiences:
   - role: Teaching Assistant for multiple courses
-    time: Sept 2021 - ongoing
+    time: Sept 2021 - Apr 2023
     company: Ontario Tech University
     details: |
           - Worked as a Teaching Assistant for the following courses: Introduction to Networking I (Fall 2021, 2022), Advanced Communication Networks (Winter 2022), Social Info and Tech. Networks (Winter 2022).
