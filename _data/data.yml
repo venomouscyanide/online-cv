@@ -9,16 +9,16 @@ sidebar:
     # Profile information
     name: Paul Louis
     tagline: Graduate Research Assistant
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar:   #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: paul.louis@ontariotechu.net
-    phone: +1 (289) 675 3549
-    timezone: Toronto Timezone
+    phone:
+    timezone:
     website: 
     linkedin: paullouisuoit
     github: venomouscyanide
-    pdf: https://drive.google.com/file/d/19U3ENn-9hFv45RJLRfY_pMbAADGB7dpQ/view?usp=sharing
+    pdf: 
     gitlab:
     bitbucket:
     twitter: exploring_gnns
